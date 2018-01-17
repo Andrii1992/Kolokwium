@@ -1,0 +1,9 @@
+C:\Users\local\Desktop\PawGap\Elektronik\Elektronik\bin\Debug\Elektronik.exe.config
+C:\Users\local\Desktop\PawGap\Elektronik\Elektronik\bin\Debug\Elektronik.exe
+C:\Users\local\Desktop\PawGap\Elektronik\Elektronik\bin\Debug\Elektronik.pdb
+C:\Users\local\Desktop\PawGap\Elektronik\Elektronik\obj\Debug\Elektronik.csprojResolveAssemblyReference.cache
+C:\Users\local\Desktop\PawGap\Elektronik\Elektronik\obj\Debug\Elektronik.Start.resources
+C:\Users\local\Desktop\PawGap\Elektronik\Elektronik\obj\Debug\Elektronik.Properties.Resources.resources
+C:\Users\local\Desktop\PawGap\Elektronik\Elektronik\obj\Debug\Elektronik.csproj.GenerateResource.Cache
+C:\Users\local\Desktop\PawGap\Elektronik\Elektronik\obj\Debug\Elektronik.exe
+C:\Users\local\Desktop\PawGap\Elektronik\Elektronik\obj\Debug\Elektronik.pdb
